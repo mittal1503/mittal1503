@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like Runing and Eating
 
 ![Mittal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mittal1503&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mittal1503&layout=compact)](https://github.com/mittal1503/Online_flight_booking_)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mittal1503&layout=compact)](https://github.com/mittal1503)
 
