@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/MittalHatvani)
+[![website](./img/twitter-dark.svg)](https://twitter.com/MittalHatvani)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mittal-hatvani-a6844a203/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mittal-hatvani-a6844a203/)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/_.mittallll_.15._/)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/_.mittallll_.15._/)
