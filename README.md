@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/_.mittallll_.15._/)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/_.mittallll_.15._/)
 
 ### Stats:
 -![Mittal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mittal1503&show_icons=true&theme=radical)
