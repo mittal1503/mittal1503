@@ -41,3 +41,7 @@ Here are some ideas to get you started:
 -![Mittal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mittal1503&show_icons=true&theme=radical)
 
 -[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mittal1503)](https://github.com/mittal1503)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mittal1503&show_icons=true&locale=en" alt="mittal1503" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mittal1503&" alt="mittal1503" /></p>
