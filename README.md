@@ -1,4 +1,4 @@
-### Hi there 👋 I am Mittal Hatvani
+<h3>Hi there 👋 I am Mittal Hatvani</h3>
 <h3 align="center">I'm a prefinal year Computer Engineering Student. I am enthusiast about Web development 💻 and Competitive Programming.</h3>
 <!--
 **mittal1503/mittal1503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Devloping 
 - 💬 Ask me about Anything
 - 📫 How to reach me: hatvanimittal@gmail.com
-- ⚡ Fun fact: I like Runing and Eating
+- ⚡ Fun fact: I like Eatinggg!!
 
 <!-- ### Connect with me:
 
