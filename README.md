@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 
 -![Mittal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mittal1503&show_icons=true&theme=radical)
 
--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mittal1503&layout=compact)](https://github.com/mittal1503)
+-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mittal1503)](https://github.com/mittal1503)
 
+-
