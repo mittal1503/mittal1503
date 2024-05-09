@@ -1,11 +1,11 @@
 <h3 align="center">Hi there 👋 I am Mittal Hatvani</h3>
-<h3 align="center">I'm a prefinal year Computer Engineering Student. I am enthusiast about Web development 💻 and Competitive Programming.</h3>
+<h3 align="center">I'm a Full Stack Devloper. I am enthusiast about Web development 💻 and Competitive Programming.</h3>
 <!--
 **mittal1503/mittal1503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
 
-## I'm a Coder,Web Devloper and Student!!
+## I'm a Coder and Web Devloper!!
 
 - 🔭 I’m currently working on Data structure and Algorithem
 - 🌱 I’m currently learning Web Devloping 
